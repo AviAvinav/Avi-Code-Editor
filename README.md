@@ -11,7 +11,7 @@
 </ol>
 </p>
 <br>
-<p><b>A preview of the editor</b></p>
+<h3><b>A preview of the editor while in use</b></h3>
 <img src="Avi's Code Editor.png"/>
 
 <p>
