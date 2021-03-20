@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400&display=swap');
+
+.Editor{
+    background-color: #000000;
+    color: #FFFFFF;
+    padding-top: 8px;
+    width: 90%;
+    height: auto;
+    padding-bottom: 20px;
+    margin: 1rem;
+    border-radius: 10px;
+    font-family: 'Nunito', sans-serif;
+    letter-spacing: 2px;
+    font-size: 18px;
+}
+
+.Editor__top {
+    text-align: center;
+}
+
+.Editor__bottom {
+    font-size: 15px;
+}
+
+.CodeMirror {
+    height: 17rem;
+}
